@@ -38,6 +38,7 @@
   
   .input {
   text-align:center;
+  opacity: 0.5;
   }
   
   input[type='text'] {
@@ -49,6 +50,8 @@
   border: none;
   border-radius: 4px;
   padding: 10px;
+  text-shadow: 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE;
+  color: grey
   }
   
   input[type='submit'] {
@@ -59,6 +62,8 @@
     font-size: 20px;
     border: none;
     border-radius: 4px;
+    text-shadow: 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE, 0 0 2px #AFEEEE;
+    color: grey
     }
   
   
